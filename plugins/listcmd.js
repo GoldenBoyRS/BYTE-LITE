@@ -292,7 +292,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 ┃▸📖 COMMAND: .trt 
 ┃▸ℹ️ change languages 
 ╰━━━━━━━━━━━━⪼
->  *ᴘᴏᴡᴅᴇʀᴇᴅ ʙʏ ᴀᴡᴀɪsxᴄʜᴜᴢᴢᴀ*`;
+>  *ᴘᴏᴡᴅᴇʀᴇᴅ ʙʏ GOLDEN-MD*`;
 
         await conn.sendMessage(
             from,
@@ -305,7 +305,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363321103874131@newsletter',
-                        newsletterName: 'ᴀɴsᴀʀ-ᴘᴀɴʜᴡᴀʀ',
+                        newsletterName: 'GOLDENBOY',
                         serverMessageId: 143
                     }
                 }
