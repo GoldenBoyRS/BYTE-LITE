@@ -13,16 +13,16 @@ cmd({
 async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
     try {
         // Generate system status message
-        const status = `╭━━〔 *PANHWAR-MD* 〕━━┈⊷
+        const status = `╭━━〔 *Golden-MD* 〕━━┈⊷
 ┃◈╭─────────────·๏
 ┃◈┃• *⏳Uptime*:  ${runtime(process.uptime())} 
 ┃◈┃• *📟 Ram usage*: ${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${(os.totalmem() / 1024 / 1024).toFixed(2)}MB
 ┃◈┃• *⚙️ HostName*: ${os.hostname()}
-┃◈┃• *👨‍💻 Owner*: ᴀɴsᴀʀ-ᴘᴀɴʜᴡᴀʀ
-┃◈┃• *🧬 Version*: 2.0.0
+┃◈┃• *👨‍💻 Owner*: GoldenBoy
+┃◈┃• *🧬 Version*: 1.0.0
 ┃◈└───────────┈⊷
 ╰──────────────┈⊷
-> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴀɴsᴀʀ-ᴘᴀɴʜᴡᴀʀ`;
+> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ The GoldenBoy`;
 
         // Send the status message with an image
         await conn.sendMessage(from, { 
