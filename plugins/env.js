@@ -19,7 +19,7 @@ cmd({
 async (conn, mek, m, { from, quoted, reply }) => {
     try {
         // Define the settings message with the correct boolean checks
-        let envSettings = `╭━━━〔 *BYTE-LITE* 〕━━━┈⊷
+        let envSettings = `╭━━━〔 *GOLDEN-MD* 〕━━━┈⊷
 ┃▸╭───────────
 ┃▸┃๏ *ENV SETTINGS 🗿*
 ┃▸└───────────···๏
@@ -55,7 +55,7 @@ async (conn, mek, m, { from, quoted, reply }) => {
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363321103874131@newsletter',
-                        newsletterName: "BYTE-LITE",
+                        newsletterName: "GOLDEN-MD",
                         serverMessageId: 143
                     }
                 }
