@@ -1,4 +1,4 @@
-const config = require('../config')
+kiconst config = require('../config')
 const { cmd, commands } = require('../command');
 const os = require("os")
 const {runtime} = require('../lib/functions')
@@ -202,7 +202,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363321103874131@newsletter',
-                        newsletterName: 'ᴀɴsᴀʀ-ᴘᴀɴʜᴡᴀʀ',
+                        newsletterName: 'GOLDENBOY',
                         serverMessageId: 143
                     }
                 }
