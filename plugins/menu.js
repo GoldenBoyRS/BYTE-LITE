@@ -21,7 +21,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 ┃★│ Platform : *Heroku*
 ┃★│ Mode : *[${config.MODE}]*
 ┃★│ Prifix : *[${config.PREFIX}]*
-┃★│ Version : *v 2.0.0*
+┃★│ Version : *1 2.0.0*
 ┃★╰──────────────
 ╰━━━━━━━━━━━━━━━┈⊷
 *╭━━〔 Menu List 〕━━┈⊷*
@@ -53,7 +53,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363321103874131@newsletter',
-                        newsletterName: 'ᴀɴsᴀʀ-ᴘᴀɴʜᴡᴀʀ',
+                        newsletterName: 'GOLDENBOY',
                         serverMessageId: 143
                     }
                 }
@@ -123,7 +123,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363321103874131@newsletter',
-                        newsletterName: 'ᴀɴsᴀʀ-ᴘᴀɴʜᴡᴀʀ',
+                        newsletterName: 'GOLDENBOY',
                         serverMessageId: 143
                     }
                 }
@@ -198,7 +198,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363321103874131@newsletter',
-                        newsletterName: 'ᴀɴsᴀʀ-ᴘᴀɴʜᴡᴀʀ',
+                        newsletterName: 'GOLDENBOY',
                         serverMessageId: 143
                     }
                 }
@@ -254,7 +254,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363321103874131@newsletter',
-                        newsletterName: 'ᴀɴsᴀʀ-ᴘᴀɴʜᴡᴀʀ',
+                        newsletterName: 'GOLDENBOY',
                         serverMessageId: 143
                     }
                 }
@@ -310,7 +310,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363321103874131@newsletter',
-                        newsletterName: 'ᴀɴsᴀʀ-ᴘᴀɴʜᴡᴀʀ',
+                        newsletterName: 'GOLDENBOY',
                         serverMessageId: 143
                     }
                 }
@@ -361,7 +361,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363321103874131@newsletter',
-                        newsletterName: 'ᴀɴsᴀʀ-ᴘᴀɴʜᴡᴀʀ',
+                        newsletterName: 'GOLDENBOY',
                         serverMessageId: 143
                     }
                 }
@@ -420,7 +420,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363321103874131@newsletter',
-                        newsletterName: 'ᴀɴsᴀʀ-ᴘᴀɴʜᴡᴀʀ',
+                        newsletterName: 'GOLDENBOY',
                         serverMessageId: 143
                     }
                 }
@@ -469,7 +469,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363321103874131@newsletter',
-                        newsletterName: 'ᴀɴsᴀʀ-ᴘᴀɴʜᴡᴀʀ',
+                        newsletterName: 'GOLDENBOY',
                         serverMessageId: 143
                     }
                 }
@@ -522,7 +522,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363321103874131@newsletter',
-                        newsletterName: 'ᴀɴsᴀʀ-ᴘᴀɴʜᴡᴀʀ',
+                        newsletterName: 'GOLDENBOY',
                         serverMessageId: 143
                     }
                 }
@@ -572,7 +572,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363321103874131@newsletter',
-                        newsletterName: 'ᴀɴsᴀʀ-ᴘᴀɴʜᴡᴀʀ',
+                        newsletterName: 'GOLDENBOY',
                         serverMessageId: 143
                     }
                 }
