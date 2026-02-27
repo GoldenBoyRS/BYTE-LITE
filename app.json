@@ -1,6 +1,6 @@
 {
-  "name": "BYTE-LITE",
-  "description": "ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴘᴀɴʜᴡᴀʀ ᴍᴅ",
+  "name": "GOLDEN-MD",
+  "description": "ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ GOLDEN-MD",
   "logo": "https://i.imgur.com/UfzyhWN.jpeg",
   "keywords": ["bot"],
   "success_url": "/",
@@ -83,7 +83,7 @@
     "BOT_NAME": {
       "description": "write hear your name.",
       "required": true,
-      "value": "ᴘᴀɴʜᴡᴀʀ ᴍᴅ"
+      "value": "GOLDEN-MD"
     }, 
 
     "READ_MESSAGE": {
@@ -95,7 +95,7 @@
     "CAPTION": {
       "description": "enter your caption if you want to show on menu.",
       "required": true,
-      "value": "*ᴘᴏᴡᴅᴇʀᴇᴅ ʙʏ ᴀɴsᴀʀ-ᴘᴀɴʜᴡᴀʀ*"
+      "value": "*ᴘᴏᴡᴅᴇʀᴇᴅ ʙʏ GOLDENBOY*"
     }
 
 
