@@ -1,12 +1,12 @@
 {
-  "name": "PANHWAR-MD",
+  "name": "GOLDEN-MD",
   "version": "1.0.0",
   "description": "A WhatsAppp bot created using Bailey's",
   "main": "index.js",
   "scripts": {
     "start": "pm2 start index.js --deep-monitoring --attach --name PANHWAR-MD",
-    "stop": "pm2 stop PANHWAR-MD",
-    "restart": "pm2 restart PANHWAR-MD"
+    "stop": "pm2 stop GOLDEN-MD",
+    "restart": "pm2 restart GOLDEN-MD"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "6.7.9",
